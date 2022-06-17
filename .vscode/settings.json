@@ -1,0 +1,11 @@
+// {
+// 	"liveServer.settings.port": 5501,
+// 	"liveServer.settings.root": "/",
+// 	"liveServer.settings.CustomBrowser": "chrome",
+// 	"liveServer.settings.https": {
+// 		"enable": false, //set it true to enable the feature.
+// 		"cert": "/Users/jun/Dev/spa/localhost.pem", //full path of the certificate
+// 		"key": "/Users/jun/Dev/spa/localhost.key", //full path of the private key
+// 		"passphrase": "1234"
+// 	}
+// }
