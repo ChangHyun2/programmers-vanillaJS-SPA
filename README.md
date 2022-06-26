@@ -4,3 +4,5 @@
 https://github.com/Rob--W/cors-anywhere
 
 2. vscode live-server로 html파일 실행
+
+**코드 참고 시 출처 표기 부탁드립니다.**
